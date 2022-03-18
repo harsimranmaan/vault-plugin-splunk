@@ -10,6 +10,7 @@ accounts, including secrets rotation for compliance purposes.
 
 [![Build Status](https://circleci.com/gh/splunk/vault-plugin-splunk.svg?style=shield)](https://circleci.com/gh/splunk/vault-plugin-splunk)
 [![GoReport](https://goreportcard.com/badge/github.com/splunk/vault-plugin-splunk)](https://goreportcard.com/report/github.com/splunk/vault-plugin-splunk)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fharsimranmaan%2Fvault-plugin-splunk.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fharsimranmaan%2Fvault-plugin-splunk?ref=badge_shield)
 
 
 # Building from Source
@@ -167,3 +168,7 @@ goconvey -excludedDirs vendor
 * generate API from OpenAPI spec
 * expand doc strings
 * comment strings: caps, punctuation
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fharsimranmaan%2Fvault-plugin-splunk.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fharsimranmaan%2Fvault-plugin-splunk?ref=badge_large)
